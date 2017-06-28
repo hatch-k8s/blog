@@ -1,3 +1,10 @@
+---
+layout: post
+title: How to pull images from a private repository with kubernetes
+date: 2017-06-28 10:10:10 -0200
+categories: registry
+---
+
 #How to pull images from a private repository with kubernetes
 
 
