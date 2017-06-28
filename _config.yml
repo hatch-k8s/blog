@@ -31,3 +31,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+defaults:
+  -
+    layout: "default"
+    comments: true
